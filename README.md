@@ -2,7 +2,7 @@
 
   >Status do projeto em desenvolvimento
 
-    para rodar esse progeto na sua máquiba por favor dijite:
+    para rodar esse projeto na sua máquiba por favor digite:
 
     ````````
     node app.js 
