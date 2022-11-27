@@ -5,6 +5,6 @@
     para rodar esse progeto na sua máquiba por favor dijite:
 
     ````````
-    npm install
+    node app.js 
 
     ````````
